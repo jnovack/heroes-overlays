@@ -1,0 +1,19 @@
+@import url('base.css');
+
+#wrapper { background-image: url('../img/versus.jpg'); }
+
+#t1 {
+  position: absolute; width: 840px; height: 654px; margin: 365px 0px 0px 0px;
+  /*border: 1px solid blue;*/
+}
+
+#t2 {
+  position: absolute; width: 840px; height: 654px; margin: 52px 0px 0px 1080px;
+  /*border: 1px solid red;*/
+}
+
+.player {
+  height: 131px;
+  text-align: center;
+  font-size: 6em;
+}
